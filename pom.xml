@@ -24,7 +24,7 @@
   <packaging>pom</packaging>
 
   <name>QATCodec</name>
-  <description>QAT Codec for Apache Hadoop and Spark</description>
+  <description>QAT Codec for Apache Hadoop and Spark.</description>
   <url>https://github.com/intel-hadoop/IntelQATCodec</url>
 
   <repositories>
